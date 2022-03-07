@@ -21,7 +21,7 @@ class App extends Component {
     // To help prevent the default refreshing behaviour of Javascript
     e.preventDefault();
 
-    const api_call = await fetch(`http://www.omdbapi.com/?apikey=${A_KEY}&s=${movieName}`);
+    const api_call = await fetch(`https://www.omdbapi.com/?apikey=${A_KEY}&s=${movieName}`);
 
     const data = await api_call.json();
     
