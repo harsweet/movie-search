@@ -1,7 +1,7 @@
 # To Run This App on your System:
 
-###(1) Run 'npm install' in the folder of this app to install all the required modules
-###(2) Then run 'npm start' to start the app in your browser
+### (1) Run 'npm install' in the folder of this app to install all the required modules
+### (2) Then run 'npm start' to start the app in your browser
 
 
 # Getting Started with Create React App
